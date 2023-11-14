@@ -4,5 +4,5 @@ In the course, **Artificial Intelligence System Experiment**, we were required t
 
 # :construction:PRUNING TRAINING
 
-This assignment required the completion of VGG11 model pruning experiments and training and testing on the publicly available dataset CIFAR10. We practiced this assignment to master how to lighten the network so that we can use pruning to improve model inference in the subsequent competition.
+
 
